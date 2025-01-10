@@ -64,3 +64,10 @@ Este projeto demonstra a aplicação de técnicas de aprendizado supervisionado 
 - Pandas, NumPy
 - Matplotlib, Seaborn
 - Scikit-learn
+
+## 💻 Developers
+<a href="https://github.com/pedroCanedo1"><img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/" width="50"></a>PEDRO CANEDO</br>
+<a href="https://github.com/RLMurta"><img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/RLMurta" width="50"></a>RAFAEL MURTA</br>
+<a href="https://github.com/"><img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/" width="50"></a>ROGÉRIO SOARES</br>
+<a href="https://github.com/"><img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/" width="50"></a>THALES REIS</br>
+<a href="https://github.com/victor-kaua"><img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/victor-kaua" width="50"></a>VICTOR KAUÃ NUNES</br>
