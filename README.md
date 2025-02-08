@@ -7,7 +7,7 @@
 
 ## 💻 About the project
 
-This project was developed as part of the Santander Coders course, focusing on supervised machine learning techniques. The goal was to predict customer churn for a telecommunications company based on customer behavior data. The dataset contains information such as customer demographics, account information, service usage, and whether the customer churned (left the service). The objective was to analyze the data, build predictive models, and identify key factors influencing churn.
+This project was developed as part of the Santander Coders course, focusing on supervised machine learning techniques. The goal was to predict customer churn for a bank based on customer behavior data. The dataset contains information such as customer demographics, account information, service usage, and whether the customer churned (left the service). The objective was to analyze the data, build predictive models, and identify key factors influencing churn.
 
 Key steps in the project included:
 
@@ -37,7 +37,7 @@ This project demonstrates the application of supervised learning techniques to a
 
 ---
 
-> Este projeto foi desenvolvido como parte do curso Santander Coders, com foco em técnicas de aprendizado supervisionado. O objetivo foi prever o churn (desistência) de clientes em uma empresa de telecomunicações com base nos dados de comportamento dos clientes. O dataset contém informações como dados demográficos, informações da conta, uso de serviços e se o cliente desistiu do serviço. O objetivo do projeto foi analisar os dados, construir modelos preditivos e identificar os principais fatores que influenciam o churn.
+> Este projeto foi desenvolvido como parte do curso Santander Coders, com foco em técnicas de aprendizado supervisionado. O objetivo foi prever o churn (desistência) de clientes em um banco com base nos dados de comportamento dos clientes. O dataset contém informações como dados demográficos, informações da conta, uso de serviços e se o cliente desistiu do serviço. O objetivo do projeto foi analisar os dados, construir modelos preditivos e identificar os principais fatores que influenciam o churn.
 
 Os principais passos do projeto incluíram:
 
